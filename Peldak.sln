@@ -12,6 +12,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_ertekatadas_pelda", "02_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_ertekatadas_referencia", "03_ertekatadas_referencia\03_ertekatadas_referencia.csproj", "{751E1DF6-A309-48C4-A185-FCB50E2C2424}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_adatbekeres_convert", "04_adatbekeres_convert\04_adatbekeres_convert.csproj", "{4130A764-9E7E-4F37-813E-D21B76D94214}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_adatbekeres_convert_hibakezelt", "05_adatbekeres_convert_hibakezelt\05_adatbekeres_convert_hibakezelt.csproj", "{9F6F443C-03E5-4E69-89C2-347DBE175D3D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,6 +34,14 @@ Global
 		{751E1DF6-A309-48C4-A185-FCB50E2C2424}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{751E1DF6-A309-48C4-A185-FCB50E2C2424}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{751E1DF6-A309-48C4-A185-FCB50E2C2424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4130A764-9E7E-4F37-813E-D21B76D94214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4130A764-9E7E-4F37-813E-D21B76D94214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4130A764-9E7E-4F37-813E-D21B76D94214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4130A764-9E7E-4F37-813E-D21B76D94214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F6F443C-03E5-4E69-89C2-347DBE175D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6F443C-03E5-4E69-89C2-347DBE175D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6F443C-03E5-4E69-89C2-347DBE175D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6F443C-03E5-4E69-89C2-347DBE175D3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
