@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_tulajdonsag", "10_tulajd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_anonim_tulajdonsag", "11_anonim_tulajdonsag\11_anonim_tulajdonsag.csproj", "{2E7EC9FE-3944-4F46-B173-675E8F27543D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_tomb_indexer", "12_tomb_indexer\12_tomb_indexer.csproj", "{CA9A21E8-0687-4B98-9FFA-AE57E7BBBC1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -80,6 +82,10 @@ Global
 		{2E7EC9FE-3944-4F46-B173-675E8F27543D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E7EC9FE-3944-4F46-B173-675E8F27543D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E7EC9FE-3944-4F46-B173-675E8F27543D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA9A21E8-0687-4B98-9FFA-AE57E7BBBC1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9A21E8-0687-4B98-9FFA-AE57E7BBBC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9A21E8-0687-4B98-9FFA-AE57E7BBBC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9A21E8-0687-4B98-9FFA-AE57E7BBBC1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
