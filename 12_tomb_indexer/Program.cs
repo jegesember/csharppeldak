@@ -32,6 +32,7 @@ namespace _12_tomb_indexer
             {
                 Console.WriteLine(teszt[i]);
             }
+            Console.ReadKey();
         }
     }
 }

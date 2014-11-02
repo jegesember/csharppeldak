@@ -42,6 +42,7 @@ namespace _11_anonim_tulajdonsag
             Anonim a = new Anonim();
             Console.WriteLine(n.Tulajdonsag);
             Console.WriteLine(a.Tulajdonsag);
+            Console.ReadKey();
         }
     }
 }

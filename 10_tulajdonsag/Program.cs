@@ -28,6 +28,7 @@ namespace _10_tulajdonsag
             Tulajdonsag teszt = new Tulajdonsag();
             teszt.Ertek = 55;
             Console.WriteLine(teszt.Ertek);
+            Console.ReadKey();
         }
     }
 }
