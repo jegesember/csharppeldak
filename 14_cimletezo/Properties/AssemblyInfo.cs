@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("14_letoltoprogram")]
+[assembly: AssemblyTitle("14_cimletezo")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("14_letoltoprogram")]
+[assembly: AssemblyProduct("14_cimletezo")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("d1d2f6e4-7638-44a9-8c54-fd7625b51a85")]
+[assembly: Guid("f478bb5d-afb4-4444-ba56-11eb4e5f32d1")]
 
 // Version information for an assembly consists of the following four values:
 //
