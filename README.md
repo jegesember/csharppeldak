@@ -9,6 +9,8 @@ A sorozat a http://www.webmaster442.hu/category/hogyan-mukodik/csharp/ címen é
 * [3. Rész](http://www.webmaster442.hu/programozzunk-c-ban-3-resz/)
 * [4. Rész](http://www.webmaster442.hu/programozzunk-c-ban-4-resz/)
 * [5. Rész](http://www.webmaster442.hu/programozzunk-c-ban-5-resz/)
+* [6. Rész](http://www.webmaster442.hu/programozzunk-c-ban-6-resz/)
+* [7. Rész](http://www.webmaster442.hu/programozzunk-c-ban-7-resz/)
 
 ***
 
